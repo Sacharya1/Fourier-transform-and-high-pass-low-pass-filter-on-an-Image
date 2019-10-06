@@ -1,0 +1,9 @@
+Lab.pgm baboon_lpf.pgm LPF 55 75 150 190 13
+baboon_lpf.pgm baboon_lpf1.pgm LPF1 220 270 100 80 20
+baboon_lpf1.pgm baboon_lpf2.pgm LPF2 305 175 150 75 7
+Lab.pgm baboon_hpf.pgm HPF 55 75 150 190 3
+baboon_hpf.pgm baboon_hpf1.pgm HPF1 220 270 100 80 2
+baboon_hpf1.pgm baboon_hpf2.pgm HPF2 305 175 150 75 5
+Lab.pgm baboon_bsf.pgm BSF 55 75 150 190 11 40
+baboon_bsf.pgm baboon_bsf1.pgm BSF1 220 270 100 80 3 30
+baboon_bsf1.pgm baboon_bsf2.pgm BSF2 305 175 150 75 2 35
